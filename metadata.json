@@ -1,0 +1,6 @@
+{
+  "name": "FolioIntel - Retail Portfolio Intelligence & Crash Simulator",
+  "description": "Next-generation retail portfolio intelligence platform featuring multi-broker CAS ingestion, asset radar diversification health scoring, goal compounding & crash simulation, and contextual multilingual copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
